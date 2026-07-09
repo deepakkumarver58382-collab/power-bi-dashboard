@@ -170,5 +170,6 @@ This dashboard supports business decision-making by enabling:
 
 #15.📷 Dashboard Preview
 <img width="1537" height="862" alt="image" src="https://github.com/user-attachments/assets/25a77221-55ec-4ce9-8af2-8e84e91f96da" />
-<img width="1537" height="862" alt="image" src="https://github.com/user-attachments/assets/2f85272c-2701-44a7-983c-101df61936a7" />
+<img width="1536" height="863" alt="image" src="https://github.com/user-attachments/assets/3d59ef9a-14c8-4fd8-8452-dbaf8b631424" />
+
 
